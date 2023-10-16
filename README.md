@@ -1,2 +1,3 @@
 # Karater-DSL
-automacao com karater dsl  api publica .
+
+Automação com caráter dsl api público .
